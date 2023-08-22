@@ -52,5 +52,8 @@ p{
     .push{
         transform: translateY(50%);
     }
+    header{
+        padding: 0;
+    }
 
 }
