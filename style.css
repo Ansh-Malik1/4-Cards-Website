@@ -7,8 +7,6 @@ header{
     max-width: 500px;
     text-align: center;
     margin:50px auto;
-    padding: 0 1rem ;
-
 }
 h1{
     font-weight: 200;
@@ -52,8 +50,4 @@ p{
     .push{
         transform: translateY(50%);
     }
-    header{
-        padding: 0;
-    }
-
 }
